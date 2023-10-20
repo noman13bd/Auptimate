@@ -1,6 +1,8 @@
 **Investment Pool Management System**
 -------------------------------------
 
+![Architectural Diagram](ipms.png)
+
 Key Components and Justifications:
 
     User Management & Authentication:
